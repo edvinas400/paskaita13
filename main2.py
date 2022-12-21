@@ -15,8 +15,4 @@ def funkcija(direktorija, aukstis):
             pic.show()
 
 funkcija(direktorija, 200)
-# dog = Image.open('dog.jpg')
-# logo = Image.open('logo.png')
-# logo_location = (0, 0, logo.size[0], logo.size[1])
-# dog.paste(logo, logo_location, logo)
-# dog.show()
+
